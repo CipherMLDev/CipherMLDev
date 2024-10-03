@@ -1,25 +1,25 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CipherMLDev.CipherMLDev" />
+<img align="right" src="https://profile-counter.glitch.me/CipherMLDev/count.svg?" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Souvik+Roy!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!+👋;+Souvik+This+Side!;" />
 </h1>
 
-<h3 align="center">A passionate researcher from India </h3>
+<h2 align="left">A Passionate & Curious Researcher From Tripura, India </h2>
 
 <br/>
+<img align="right" height="160" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NDcxNjksIm5iZiI6MTcyNzk0Njg2OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDA5MTQyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0MWI3ODI3MjZiYTkzNTIyN2Q5ZDM4YTM2NWU0MjgzNzA2MzUxMWQ3MjM0MjI3ODc0OWJkMGVmN2VkNTAxM2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ufy5wLyrVu958JQ_b4ciBmXZ8QKJBDvaVZy9zT9HTbs"  />
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently researching about **LLM models**
  
  🌱 I’m currently learning **NN, CNN, RNN, LSTM & Transformer Models**
-
+ 
 💬 Ask me about **Cyber-Security & ML... or anything [here](https://github.com/CipherMLDev/CipherMLDev/issues)**
-
 
  </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:souvikroybss001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -55,10 +55,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=CipherMLDev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=410 src="https://streak-stats.demolab.com/?user=CipherMLDev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=CipherMLDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherMLDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CipherMLDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
